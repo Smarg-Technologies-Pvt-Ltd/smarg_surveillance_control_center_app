@@ -1,0 +1,7 @@
+{
+  "name": "Surveillance",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
