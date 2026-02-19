@@ -36,7 +36,7 @@ export class HomePage {
       let target = "_self";
 
       // let target = "_system";
-      const browser = this.theInAppBrowser.create('http://43.254.33.2:3007', target, this.options);
+      const browser = this.theInAppBrowser.create('https://smargtech.com:3004', target, this.options);
 
      // https://smargtech:3004
 
